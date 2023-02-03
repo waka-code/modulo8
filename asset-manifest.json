@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/modulo8/static/css/main.3771763f.css",
+    "main.js": "/modulo8/static/js/main.346d26e3.js",
+    "index.html": "/modulo8/index.html",
+    "main.3771763f.css.map": "/modulo8/static/css/main.3771763f.css.map",
+    "main.346d26e3.js.map": "/modulo8/static/js/main.346d26e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3771763f.css",
+    "static/js/main.346d26e3.js"
+  ]
+}
